@@ -1,0 +1,8 @@
+# Ignore specific directories
+.ipynb_checkpoints/
+dataset/
+processed_faces/
+test/
+
+# Ignore all Jupyter Notebook files
+*.ipynb
